@@ -1,4 +1,4 @@
-FROM python:3.5
+FROM pedregalteam/pyrfc_1.9.5
 
 WORKDIR /app/
 COPY ./app /app/
